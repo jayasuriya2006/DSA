@@ -17,6 +17,6 @@ public class CardMax {
             total = Math.max(total, lsum + rsum);
         }
 
-        return total ;
+        return total;
     }
 }
