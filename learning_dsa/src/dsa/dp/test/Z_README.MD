@@ -57,3 +57,23 @@ Reference: https://www.youtube.com/watch?v=FfXoiwwnxFw&list=PLgUwDviBIf0qUlt5H_k
     https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/description/
 34. LongestInCreasingSubSequenceTest
     https://leetcode.com/problems/longest-increasing-subsequence/description/
+35. LargestDivisibleSubsetTest
+    https://leetcode.com/problems/largest-divisible-subset/description/
+36. LongestStringChainTest
+    https://leetcode.com/problems/longest-string-chain/description/
+37. LongestBitonicSubsequenceTest
+38. NoOfLISTest
+    https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/
+39. MatrixChainMultiplicationTest
+40. MinimumCostToCutTheStickTest
+    https://leetcode.com/problems/minimum-cost-to-cut-a-stick/description/
+41. BurstBalloonsTest
+    https://leetcode.com/problems/burst-balloons/description/
+42.  EvaluateBooleanExpressionToTrueTest
+43. PalindromePartitioningIITest
+    https://leetcode.com/problems/palindrome-partitioning-ii/
+44. PartitionArrayForMaximumSumTest
+    https://leetcode.com/problems/partition-array-for-maximum-sum/description/
+45. CountSquareWithAllOnesTest
+    https://leetcode.com/problems/count-square-submatrices-with-all-ones/description/
+    
