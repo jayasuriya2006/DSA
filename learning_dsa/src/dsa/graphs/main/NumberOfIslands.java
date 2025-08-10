@@ -8,6 +8,8 @@ public class NumberOfIslands {
     private static final int[] ADJ_ROW = {-1, 0, 1, 0};
     private static final int[] ADJ_COL = {0, 1, 0, -1};
 
+    //TC - O(N * M)
+    //SC - O(N * M)
     public static int numIslands(char[][] grid) {
         int n = grid.length;
         if (n == 0) return 0;

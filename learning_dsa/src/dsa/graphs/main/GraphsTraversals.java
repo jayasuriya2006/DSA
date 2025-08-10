@@ -7,6 +7,8 @@ import java.util.Queue;
 
 public class GraphsTraversals {
 
+    //TC - O(N) + O(2E)
+    //SC - O(N) + O(N)
     public static List<List<Integer>> bfsFromAdjList(int vertices, List<List<Integer>> adj) {
         Queue<Integer> queue = new LinkedList<>();
         boolean[] visited = new boolean[vertices];
@@ -50,6 +52,8 @@ public class GraphsTraversals {
         return adjList;
     }
 
+    //TC - O(N) + O(2E)
+    //SC - O(N) + O(N)
     public static List<Integer> dfsFromAdjList(int vertices, List<List<Integer>> adj) {
         boolean[] visited = new boolean[vertices];
         List<Integer> dfsRes = new ArrayList<>();

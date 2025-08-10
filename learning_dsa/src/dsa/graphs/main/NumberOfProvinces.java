@@ -6,9 +6,10 @@ import static dsa.graphs.main.GraphsTraversals.getAdjListFromAdjMatrix;
 
 public class NumberOfProvinces {
 
+    //TC - O(N ^ 2)
+    //SC - O(N) + O(N)
     public static int findCircleNum(int[][] isConnected) {
         int v = isConnected.length;
-        //List<List<Integer>> adjList = getAdjListFromAdjMatrix(v, isConnected);
 
         boolean[] visited = new boolean[v];
         int count = 0;

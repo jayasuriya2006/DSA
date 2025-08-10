@@ -5,6 +5,8 @@ public class FloodFillAlgorithm {
     private static final int[] ADJ_ROW = {-1, 0, 1, 0};
     private static final int[] ADJ_COL = {0, 1, 0, -1};
 
+    //TC - O(N * M)
+    //SC - O(N * M)
     public int[][] floodFill(int[][] image, int sr, int sc, int color) {
         int oldCol = image[sr][sc];
         if (oldCol == color) return image;

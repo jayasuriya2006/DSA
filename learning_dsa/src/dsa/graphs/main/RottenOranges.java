@@ -7,6 +7,8 @@ public class RottenOranges {
     private static final int[] ADJ_ROW = {-1, 0, 1, 0};
     private static final int[] ADJ_COL = {0, 1, 0, -1};
 
+    //TC - O( N * M) * 4
+    //SC - O(N * M)
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         if (n == 0) return 0;
