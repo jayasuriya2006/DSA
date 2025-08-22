@@ -10,5 +10,14 @@ References: https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41
 5. RottenOrangesTest
    https://leetcode.com/problems/rotting-oranges/
 6. CycleUndirectedGraphBFSTest
-7. DetectCyclesInTwoDGridTest
+7. CycleUndirectedGraphDFSTest
+8. DetectCyclesInTwoDGridTest
    https://leetcode.com/problems/detect-cycles-in-2d-grid/description/
+9. DisOfNearestZeroCellTest
+   https://leetcode.com/problems/01-matrix/description/
+10. SurroundedRegionsReplaceZeroWithXTest
+    https://leetcode.com/problems/surrounded-regions/description/
+11. NumberOfEnclavesTest
+    https://leetcode.com/problems/number-of-enclaves/description/
+12. CountUniqueIslandsTest
+13. BipartiteGraphTest

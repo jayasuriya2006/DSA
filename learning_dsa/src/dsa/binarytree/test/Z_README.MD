@@ -51,9 +51,12 @@ Binary Tree Problems
 24. ValidBSTCheckerTest
 25. LCAOfBSTTest
 26. BSTFromPreOrderTest
+    https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/description/
 27. InorderSuccessorAndPredecessorTest
 28. BSTIteratorTest
 29. TwoSumInBSTTest
+    https://leetcode.com/problems/two-sum-iv-input-is-a-bst/description/
 30. RecoverBSTTest
+    https://leetcode.com/problems/recover-binary-search-tree/description/
 31. LargeBSTTest
         
