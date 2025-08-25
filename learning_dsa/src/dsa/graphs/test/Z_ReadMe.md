@@ -21,3 +21,23 @@ References: https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41
     https://leetcode.com/problems/number-of-enclaves/description/
 12. CountUniqueIslandsTest
 13. BipartiteGraphTest
+14. DetectCycleInDirectedGraphDFSTest
+15. TopologicalSortTest
+16. DtctCycleInDirectedGraphTopoTest
+17. CourseScheduleTest
+    https://leetcode.com/problems/course-schedule/description/
+    https://leetcode.com/problems/course-schedule-ii/description
+18. FindEventualSafeStatesTest
+    https://leetcode.com/problems/find-eventual-safe-states/description/
+19. AlienDictionaryTest
+20. ShrtPathInUnDirectedGraphTest         Shortest Path in Undirected Graph with Unit Weights
+21. WordLadderITest
+    https://leetcode.com/problems/word-ladder/description/
+22. WordLadderIITest
+    https://leetcode.com/problems/word-ladder-ii/description/
+23. DijkstrasAlgorithmTest
+24. PrintShortestPathTest - Dijkstra's Algorithm
+25. ShortestDistanceBinaryMazeTest
+    https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
+26. PathWithMinimumEffortTest
+    https://leetcode.com/problems/path-with-minimum-effort/description/
