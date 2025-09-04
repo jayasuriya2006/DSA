@@ -41,3 +41,17 @@ References: https://www.youtube.com/watch?v=M3_pLsDdeuU&list=PLgUwDviBIf0oE3gA41
     https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
 26. PathWithMinimumEffortTest
     https://leetcode.com/problems/path-with-minimum-effort/description/
+27. CheapestFlightsWithKStopsTest
+    https://leetcode.com/problems/cheapest-flights-within-k-stops/description/
+28. MinimumMultiplicationsReachEndTest
+    https://www.geeksforgeeks.org/problems/minimum-multiplications-to-reach-end/1
+29. NoOfWaysToDestinationTest
+    https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/description/
+30. BellmanFordTest
+    https://www.geeksforgeeks.org/problems/distance-from-the-source-bellman-ford-algorithm/1
+31. FloydWarshallTest
+    https://www.geeksforgeeks.org/problems/implementing-floyd-warshall2042/1
+32. MinCityWithThresholdDisTest
+    https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+33. MinimumSpanningTreePrimsTest
+    https://www.geeksforgeeks.org/problems/minimum-spanning-tree/1
